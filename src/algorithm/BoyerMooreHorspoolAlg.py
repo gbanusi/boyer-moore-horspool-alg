@@ -1,6 +1,6 @@
 from src.algorithm.Preprocess import compute_shift_table
 
-__author__ = 'gbbanusic'
+__author__ = 'gbanusi'
 
 
 def boyer_moore_horspool(text, pattern):
