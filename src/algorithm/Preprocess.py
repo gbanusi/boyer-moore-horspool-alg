@@ -1,4 +1,4 @@
-__author__ = 'gbbanusic'
+__author__ = 'gbanusi'
 
 
 def compute_shift_table(pattern):
