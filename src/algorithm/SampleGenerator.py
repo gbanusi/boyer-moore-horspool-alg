@@ -1,8 +1,8 @@
-__author__ = 'gbbanusic'
+__author__ = 'gbanusi'
 
 import random
 
-out_file = open("/home/gbbanusic/Fakultet/OOP/RP/QuickSort/niz.txt", "w")
+out_file = open("file", "w")
 
 i = 0
 
